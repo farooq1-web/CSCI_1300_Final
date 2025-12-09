@@ -1,0 +1,1 @@
+To compile, run the three cpp files. After that enjoy the game!!
